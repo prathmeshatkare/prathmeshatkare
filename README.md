@@ -2,7 +2,6 @@
 - 🎓I am currently Sophomore at IIT Madras pursuing Bs in Data science & Programming.
 - 🧑‍💻I'm part of 100x Devs cohort.
 - 👀 I’m interested in Web Dev & Web3.0
-- 📫 How to reach me ....
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Always interested in discussing various philosophies
 
